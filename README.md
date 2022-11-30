@@ -1,8 +1,7 @@
 ### Hi there, I'm Shreyansh. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
 - 🔭 I’m currently working on a lot of things.
-- 🌱 I’m currently studying in BML Munjal University. 
-- 🤔 I’m looking for help with game audio.
+- 🌱 I’m currently working at Jio Tesseract, building the India's largest XR ecosystem.
 
 ### Connect with me:
 
