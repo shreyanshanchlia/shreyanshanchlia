@@ -1,7 +1,6 @@
 ### Hi there, I'm Shreyansh. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
-- 🔭 I’m currently working on a lot of things.
-- 🌱 I’m currently working at Jio Tesseract, building the India's largest XR ecosystem.
+🌱 I work at Jio Tesseract, building India's largest XR ecosystem.
 
 ### Connect with me:
 
@@ -37,6 +36,6 @@
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/
+[YouTube]: https://youtube.com/
 [instagram]: https://instagram.com/shreyanshanchlia
-[linkedin]: https://www.linkedin.com/in/shreyansh-anchlia-b40379134/
+[linkedin]: https://www.linkedin.com/in/shreyansh-anchlia/
