@@ -15,7 +15,7 @@
 
 <code><img height="30" width="30" src="https://img.icons8.com/fluent/128/000000/unity.png"></code>
 <code><img height="30" width="30" src="https://img.icons8.com/fluent/48/000000/github.png"></code>
-<code><img width="26" height="26" src="https://img.icons8.com/metro/26/000000/c-plus-plus.png" alt="c-plus-plus"/></code>
+<code><img width="26" height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
