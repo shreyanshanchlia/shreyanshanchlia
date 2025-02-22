@@ -1,6 +1,6 @@
 ### Hi there, I'm Shreyansh. <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
-🌱 I work at Jio Tesseract, building India's largest XR ecosystem.
+🌱 Solving Problems with Unity. Game developer.
 
 ### Connect with me:
 
