@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Game+Developer;Unity+Expert;Cooking+games&font=Fira%20Code¢er=true&width=380&height=50)
-
 # 💫 About Me:
 Developer using unity focused on building immersive, performant, and well-engineered interactive experiences. I primarily work on gameplay systems, VR/XR applications, and real-time simulations, with a strong emphasis on clean architecture and scalability.
 
@@ -9,7 +8,7 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 [![Square Dragon Games](https://img.shields.io/badge/Square%20Dragon%20Games-FF0000)](https://shreyanshanchlia.github.io/SquareDragon.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyansh-anchlia/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11339592) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshanchlia@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshanchlia@gmail.com) 
 
 ### Languages and Tools:
 
@@ -23,6 +22,8 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+---
 
 | 📊 GitHub Stats | 🔝 Top Contributed Repo |
 |------|-------------------------|
