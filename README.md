@@ -26,11 +26,6 @@
 
 
 <br/>
-<br/>
-
-[![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshanchlia&count_private=true&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshanchlia&layout=compact&langs_count=10)](https://github.com/shreyanshanchlia/github-readme-stats)
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
 [twitter]: https://twitter.com/
