@@ -6,7 +6,6 @@
 
 [<img align="left" alt="Square Dragon Games" width="22px" src="https://img.icons8.com/cotton/64/000000/web-design--v2.png"/>][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 
 <br/>
 
@@ -22,8 +21,6 @@
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/5a50921c15e01a964d7a1ff8a96763645fa1e269/topics/hacktoberfest/hacktoberfest.png"></code>
-
 
 <br/>
 
