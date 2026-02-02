@@ -25,9 +25,10 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 
 ---
 
-| 📊 GitHub Stats | 🔝 Top Contributed Repo |
-|------|-------------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Shreyanshanchlia&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=Shreyanshanchlia&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) |
+📊 GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://nirzak-streak-stats.vercel.app/?user=Shreyanshanchlia&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
 [website-icon]: https://img.shields.io/badge/Square%20Dragon%20Games-000000?logoUrl=https://shreyanshanchlia.github.io/SquareDragon.github.io/assets/img/Logos/SquareDragonGames100x100.png
