@@ -10,7 +10,7 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11339592) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyanshanchlia@gmail.com) 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <code><img height="30" width="30" src="https://img.icons8.com/fluent/128/000000/unity.png"></code>
 <code><img height="30" width="30" src="https://img.icons8.com/fluent/48/000000/github.png"></code>
@@ -23,12 +23,11 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
----
+## 📊 GitHub Stats 
 
-📊 GitHub Stats 
-![](https://github-readme-stats.vercel.app/api?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://nirzak-streak-stats.vercel.app/?user=Shreyanshanchlia&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Shreyanshanchlia&theme=dark)
+![GitHub Most Languages Used](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
 [website-icon]: https://img.shields.io/badge/Square%20Dragon%20Games-000000?logoUrl=https://shreyanshanchlia.github.io/SquareDragon.github.io/assets/img/Logos/SquareDragonGames100x100.png
