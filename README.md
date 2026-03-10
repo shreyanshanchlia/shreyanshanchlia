@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Game+Developer;Unity+Expert;Cooking+games&font=Fira%20Code¢er=true&width=380&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Enthusiast;Game+Developer;Unity+Specialist;Cooking+games&font=Fira%20Code¢er=true&width=380&height=50)
 # 💫 About Me:
 Developer using unity focused on building immersive, performant, and well-engineered interactive experiences. I primarily work on gameplay systems, VR/XR applications, and real-time simulations, with a strong emphasis on clean architecture and scalability.
 
