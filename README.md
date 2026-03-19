@@ -30,4 +30,3 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 ![GitHub Most Languages Used](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
-[website-icon]: https://img.shields.io/badge/Square%20Dragon%20Games-000000?logoUrl=https://shreyanshanchlia.github.io/SquareDragon.github.io/assets/img/Logos/SquareDragonGames100x100.png
