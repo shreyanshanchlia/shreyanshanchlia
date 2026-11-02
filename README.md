@@ -21,12 +21,6 @@ I enjoy solving constrained technical problems—whether it’s optimizing runti
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats 
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shreyanshanchlia&theme=dark)
-![GitHub Most Languages Used](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreyanshanchlia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&log
 
 [website]: https://shreyanshanchlia.github.io/SquareDragon.github.io/
